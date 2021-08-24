@@ -50,10 +50,6 @@
         </section>
 
         <div class="company-info container p-4 bg-light rounded">
-          <total-table
-            v-model="selectedService"
-            >
-          </total-table>
         </div>
     </main>
 </template>
@@ -61,7 +57,6 @@
 <script>
 import CardProduct from '@/components/CardProduct.vue'
 import JobsTable from '@/components/JobsTable.vue'
-import TotalTable from '@/components/TotalTable.vue'
 export default {
   name: 'ServicePage',
   props: ['current'],
@@ -76,8 +71,7 @@ export default {
   },
   components: {
     'card-product': CardProduct,
-    'jobs-table': JobsTable,
-    'total-table': TotalTable
+    'jobs-table': JobsTable
   },
   created: function () {
     this.putCurrentService(this.$route.params.current)

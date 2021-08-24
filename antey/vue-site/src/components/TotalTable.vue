@@ -2,37 +2,41 @@
   <table class="table table-stripped">
     <thead>
       <tr>
-        <th scope="col">Выбраны следующие виды работ:</th>
+        <th scope="col">Услуга / товар:</th>
         <th scope="col">Количество:</th>
         <th scope="col">Цена:</th>
         <th scope="col">Корректировать:</th>
       </tr>
     </thead>
     <tbody>
-      <tr v-for="(item, key) in this.selectedService.jobs" :key="key">
-        <td scope="row">{{ item.name }}</td>
-        <td>{{ item.number }}</td>
-        <td>{{ item.number * item.price }}</td>
-        <td><price-to-calc @change-calc="dataPreparation($event, item)" /></td>
-      </tr>
-      <tr>
-        <td scope="row">td</td>
-        <td>td</td>
-        <td>td</td>
-        <td>td</td>
-      </tr>
-      <tr v-for="(item, key) in selectedService.products" :key="key">
-        <td scope="row">{{ item.name }}</td>
-        <td>{{ item.number }}</td>
-        <td>{{ item.number * item.price }}</td>
-        <td><price-to-calc @change-calc="dataPreparation($event, item)" /></td>
-      </tr>
-      <tr>
-        <td scope="row"></td>
-        <td>td</td>
-        <td>td</td>
-        <td>td</td>
-      </tr>
+      <template v-if="!(selectedService.jobs === 'undefined)'">
+        <tr v-for="(item, key) in selectedService.jobs" :key="key">
+          <td scope="row">{{ item.name }}</td>
+          <td>{{ item.number }}</td>
+          <td>{{ item.number * item.price }}</td>
+          <td><price-to-calc @change-calc="dataPreparation($event, item)" /></td>
+        </tr>
+        <tr>
+          <td scope="row">td</td>
+          <td>td</td>
+          <td>td</td>
+          <td>td</td>
+        </tr>
+      </template>
+      <template v-if="!(selectedService.products === 'undefined)'">
+        <tr v-for="(item, key) in selectedService.products" :key="key">
+          <td scope="row">{{ item.name }}</td>
+          <td>{{ item.number }}</td>
+          <td>{{ item.number * item.price }}</td>
+          <td><price-to-calc @change-calc="dataPreparation($event, item)" /></td>
+        </tr>
+        <tr>
+          <td scope="row"></td>
+          <td>td</td>
+          <td>td</td>
+          <td>td</td>
+        </tr>
+      </template>
     </tbody>
     <tfoot>
       <tr>
