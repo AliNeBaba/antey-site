@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5e97"],{9703:function(n,e,c){"use strict";c.r(e);var t=c("7a23"),u=Object(t["f"])("h1",null,"404",-1),l=Object(t["f"])("p",null,"На этом сайте нет такой страницы. Проверьте правильность написания адреса",-1),o=[u,l];function r(n,e){return Object(t["s"])(),Object(t["e"])("div",null,o)}const s={};s.render=r;e["default"]=s}}]);
-//# sourceMappingURL=chunk-2d0e5e97.32f68ab3.js.map

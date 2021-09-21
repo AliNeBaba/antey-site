@@ -21,7 +21,7 @@
         "additional": "В нижней части датчика — два металлических контакта. Когда они касаются воды, датчик отправляет сигнал на Aqara Hub. Тот включает сигнализацию и отправляет оповещение на смартфон. Если добавить к датчику умную розетку или выключатель Aqara, он сможет управлять клапаном, через который поступает вода."
       },
       "rating": 5,
-      "imgURL": "../img/aquara-sjcgq11lm.jpg",
+      "imgURL": "/antey-site/img/aquara-sjcgq11lm.jpg",
       "infoURL": "https://www.citilink.ru/product/datchik-protechki-vody-aqara-water-leak-sensor-sjcgq11lm-1424334/properties/"
     },
     {
@@ -36,7 +36,7 @@
         "additional": "Данный датчик является интеграцией метеостанции и сирены. Метеостанция позволяет контролировать микроклимат вашей комнаты. Вы можете настроить включение кондиционера на обогрев или на охлаждение. Подобным же образом можно отслеживать влажность вашего помещения."
       },
       "rating": 4.8,
-      "imgURL": "../img/hiper-iot-a1-hi-a01.jpg",
+      "imgURL": "/antey-site/img/hiper-iot-a1-hi-a01.jpg",
       "infoURL": "https://www.citilink.ru/product/datchik-temperatury-i-vlazhnosti-hiper-iot-a1-2412-2472mgc-hi-a01-1212620/properties/"
     }
   ]

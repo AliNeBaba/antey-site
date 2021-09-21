@@ -26,7 +26,7 @@
         "Дополнительно: ": "ночной режим, поддержка стандартов ONVIF и RTSP, поддержка кодеков H.265, H.264 и MJPEG, ИК-фильтр, поддержка WDR, компенсация задней засветки, шумоподавление, датчик движения"
       },
       "rating": 4.8,
-      "imgURL": "../img/ds-i200.jpeg",
+      "imgURL": "/antey-site/img/ds-i200.jpeg",
       "infoURL": "https://www.dssl.ru/products/ds-i200-s-2-8-mm-ip-kamera/"
     },
     {
@@ -44,7 +44,7 @@
         "Дополнительно: ": "ночной режим, поддержка стандартов ONVIF и RTSP, поддержка кодеков H.265, H.264 и MJPEG, ИК-фильтр, поддержка WDR, слот для карт памяти, датчик движения"
       },
       "rating": 4.8,
-      "imgURL": "../img/ds-2cd2043g0-i.jpeg",
+      "imgURL": "/antey-site/img/ds-2cd2043g0-i.jpeg",
       "infoURL": "https://www.dssl.ru/products/ds-2cd2043g0-i-2-8-mm-ip-kamera/"
     },
     {
@@ -62,7 +62,7 @@
         "Дополнительно: ": "ночной режим, ИК-фильтр"
       },
       "rating": 4.8,
-      "imgURL": "../img/ds-t200.png",
+      "imgURL": "/antey-site/img/ds-t200.png",
       "infoURL": "https://www.dssl.ru/products/ds-t200-b-3-6-mm-analogovaya-kamera/"
     },
     {
@@ -80,7 +80,7 @@
         "Дополнительно: ": "ночной режим, ИК-фильтр, детекция движения, детекция людей"
       },
       "rating": 0,
-      "imgURL": "../img/tr-d2b5.jpeg",
+      "imgURL": "/antey-site/img/tr-d2b5.jpeg",
       "infoURL": "https://www.dssl.ru/products/tr-d2b5-nopoe-v2-3-6-mm-ip-kamera/"
     },
     {
@@ -98,7 +98,7 @@
         "Дополнительно: ": "ночной режим, ИК-фильтр, компенсация задней засветки, датчик освещенности"
       },
       "rating": 4.6,
-      "imgURL": "../img/ds-t591.jpeg",
+      "imgURL": "/antey-site/img/ds-t591.jpeg",
       "infoURL": "https://www.dssl.ru/products/ds-t591-3-6-mm-analogovaya-kamera/"
     },
     {
@@ -114,7 +114,7 @@
         "Дополнительно: ": "рассчитан на 4 аналоговых, HD-TVI, AHD, HD-CVI камер и IP-камеру (с замещением аналоговых каналов — до 6). Разрешение записи HD-CVI, AHD и HD-TVI — до 4 Мп, IP-камер — до 6 Мп. Дальность передачи HD-TVI в разрешении 2 Мп — 800 м, 1 Мп — 1200 м."
       },
       "rating": 4.7,
-      "imgURL": "../img/ds-h204qa.jpeg",
+      "imgURL": "/antey-site/img/ds-h204qa.jpg",
       "infoURL": "https://www.dssl.ru/products/ds-h204qa-xvr/"
     },
     {
@@ -129,7 +129,7 @@
         "Дополнительно: ": "видеовыходы HDMI и VGA (дублирующие), один SATA для HDD форм-фактора 3.5' объемом до 8 Тбайт, два USB 2.0 (на задней панели), аудиовыход. Устройство поддерживает кодеки H.265 и H.264, удаленное подключение и просмотр архива/живого видео через клиентское приложение TRASSIR, веб-браузер, мобильный клиент Android / iOS, облачный сервис (платные тарифы). Регистратор не поддерживает модуль ActivePOS и работу с меню ActiveSearch, работать с данными ActiveSearch можно удаленно через клиент TRASSIR."
       },
       "rating": null,
-      "imgURL": "../img/nvr-1104-1.png",
+      "imgURL": "/antey-site/img/nvr-1104-1.png",
       "infoURL": "https://www.dssl.ru/products/nvr-1104-v2-nvr/"
     },
     {
@@ -145,7 +145,7 @@
         "Дополнительно: ": "рассчитан на восемь аналоговых, HD-TVI, AHD, HD-CVI камер и две IP-камеры (с замещением аналоговых каналов в Enhanced IP mode — до 12). Разрешение записи с камер HD-CVI, AHD и HD-TVI — до 4 Мп, IP-камер — до 6 Мп. Максимальная дальность передачи видеосигнала формата HD-TVI в разрешении 1080p — 800 м, 720p — 1200 м."
       },
       "rating": 4.3,
-      "imgURL": "../img/ds-h204qa.jpeg",
+      "imgURL": "/antey-site/img/ds-h204qa.jpg",
       "infoURL": "https://www.dssl.ru/products/ds-h208qa-xvr/"
     },
     {
@@ -160,7 +160,7 @@
         "Дополнительно: ": "1 х Ethernet 10/100/1000 Мбит/с, Размер архива до 2 HDD/SSD 2.5/3.5' любого объема, 1 х VGA; 1 x HDMI, 2 независимых видеовыхода, Максимальное разрешение вывода D-SUB / HDMI: FullHD, USB интерфейс 2 х USB 2.0; 1 х USB 3.0, Звук 1 x аудиовход (jack 3.5 мм), 1 x аудиовыход (jack 3.5 мм), DC 12 В, Мощность БП 30 Вт (без HDD), +10° до +30°С, 440x293.6x44.5 мм"
       },
       "rating": 4.2,
-      "imgURL": "../img/mini-nvr-af-16.jpg",
+      "imgURL": "/antey-site/img/mini-nvr-af-16.jpg",
       "infoURL": "https://www.dssl.ru/products/trassir-mininvr-af-16-ip-videoregistrator-16-kanalnyj/"
     }
   ]
