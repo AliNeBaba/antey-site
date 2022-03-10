@@ -1,0 +1,651 @@
+{
+  "promo": [
+    {
+      "generalInfo": "Комплексные решения систем безопасности для Вас и вашего бизнеса!",
+      "img": "/img/slide-first.jpg",
+      "alt": "Безопасность",
+      "service": [
+        "Видеонаблюдение",
+        "Охранно-пожарная сигнализация",
+        "Системы контроля и упраления доступом (СКУД)"
+      ]
+    },
+    {
+      "generalInfo": "Передовые технологии на службе вашего комфорта и качества жизни!",
+      "img": "/img/slide-second.jpg",
+      "alt": "Комфорт и удобство",
+      "service": [
+        "Кондиционеры",
+        "Системы “Умный Дом“",
+        "Телевидение и телефония"
+      ]
+    }
+  ],
+  "services": {
+    "calcInfo": {
+      "relevance": 1642738682499,
+      "forPrimary": "Воспользуйтесь калькулятором, чтобы приблизительно рассчитать стоимость услуг и оборудования",
+      "forSecondary": "Здесь Вы можете рассчитать приблизительную стоимость услуг и оборудования",
+      "instruction": "Добавляйте виды работ в необходимом количестве. Цена оборудования будет расчитана автоматически. Результаты расчета представлены ниже.",
+      "info": "Результаты расчета носят ознакомительный характер. Стоимость оборудования представляет из себя диапазон от дешевого к дорогому."
+    },
+    "items": [
+      {
+        "header": "Видеонаблюдение",
+        "description": "Установка систем видеонаблюдения является важным направлением деятельности нашей компании. Существует большое количество технических решений для визуального контроля. Это и автономные IP-камеры с доступом по сети, которые сами сохраняют запись на длительное время, и большие комплексы с централизованным управлением. Обязательно найдется то, что подойдет именно Вам.",
+        "imgSrc": "../img/video-service.jpg",
+        "imgAlt": "Видеокамеры",
+        "properties": [
+          "Защита имущества",
+          "Фиксация происшествий",
+          "Наблюдение за посетителями",
+          "Доступ со смартфона",
+          "Оповещение о движении перед камерой",
+          "Контроль работы персонала"
+        ],
+        "price": [
+          {
+            "title": "монтаж видеокамеры",
+            "service": 750,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "пуско-наладочные работы",
+            "service": 1500,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "прокладка кабеля",
+            "service": 20,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "настройка отдельной камеры",
+            "service": 500,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "монтаж регистратора",
+            "service": 300,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "монтаж hdd/sdd в регистратор",
+            "service": 300,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "юстировка камеры",
+            "service": 500,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          }
+        ]
+      },
+      {
+        "header": "Системы доступа",
+        "description": "Современные системы доступа могут помочь обеспечить надежный контроль и безопасность объекта. СКУД (Система контроля и управления доступом), домофоны для подъездов и частных домов, шлагбаумы, турникеты, распашные и откатные ворота - важная составляющая таких систем. Наши специалисты имеют опыт установки и настройки СКУД любого масштаба и конфигурации.",
+        "imgSrc": "../img/barrier-service.jpg",
+        "imgAlt": "Доступ по ключу",
+        "properties": [
+          "Приход/уход сотрудников",
+          "Учет рабочего времени",
+          "Доступ посторонних лиц",
+          "Интеграция с видеонаблюдением и сигнализацией",
+          "Передвижение транспорта",
+          "И многое другое..."
+        ],
+        "price": [
+          {
+            "title": "Монтаж датчика контроля положения двери СМК",
+            "service": 300,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж замка накладного электромеханического",
+            "service": 2500,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж замка врезного электромеханического",
+            "service": 2800,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж электромагнитного замка",
+            "service": 1750,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж и подключение блока автоматики",
+            "service": 2000,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж кнопки запроса на выход",
+            "service": 400,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж накладного считывателя магнитных карт",
+            "service": 600,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж блока питания",
+            "service": 200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж доводчика дверного",
+            "service": 250,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Подключения сетевого контроллера",
+            "service": 350,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          }
+        ]
+      },
+      {
+        "header": "Умный Дом",
+        "description": "Неизбежная цифровизация всего и вся рано или поздно приведет тому, что даже обеденный стол будет подключен к интернету! Роботы-пылесосы, умные чайники и лампы тому пример. Ассортимент таких устройств постоянно увеличивается. И круг задач, которые можно решать с их помощью постоянно расширяется. Как следствие растут комфорт и качество жизни. Не отказывайте себе в этом!",
+        "imgSrc": "../img/home-service.jpg",
+        "imgAlt": "Управление домом",
+        "properties": [
+          "Включение и отключение устройств",
+          "Управление аудиоаппаратурой",
+          "Управление ТВ",
+          "Контроль здоровья систем",
+          "Управление системами безопасносности",
+          "Автоматизация процессов"
+        ],
+        "price": [
+          {
+            "title": "Настройка до 10 датчиков",
+            "service": 2200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Настройка 11-20 датчиков",
+            "service": 3000,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          }
+        ]
+      },
+      {
+        "header": "Телефония",
+        "description": "Есть немало решений, которые смогут обеспечить качественную и бесперебойную связь для частных лиц и бизнеса любого масштаба. Так физические или цифровые АТС, IP и SIP телефоны и телефония позволят вашему бизнесу максимально качественно работать с клиентами и сотрудниками. Мы проконсультируем Вас и поможем выбрать оптимальную конфигурацию. Рады предложить Вам:",
+        "imgSrc": "../img/phone-service.jpg",
+        "imgAlt": "Телефон",
+        "properties": [
+          "Недорогая связь",
+          "Масштабируемые Call-центры",
+          "Организация удаленной работы сотрудников",
+          "Почта и конференц-связь",
+          "Облачные решения",
+          "Большой выбор провайдеров и тарифов"
+        ],
+        "price": [
+          {
+            "title": "Прокладка телефонного кабеля р/10м",
+            "service": 200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж реле",
+            "service": 700,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж считывателя магнитных карт",
+            "service": 700,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          }
+        ]
+      },
+      {
+        "header": "Сигнализация",
+        "description": "В наше неспокойное время сигнализация - не роскошь, а крайняя необходимость. Пожарная и охранная сигнализации - это электроника, способная работать автономно, и нередко являющаяся частью целой системы, другими составными частями которой могут быть СКУД и видеонаблюдение. У нас есть опыт и все необходимые разрешительные документы и лицензии.",
+        "imgSrc": "../img/signaling-service.jpg",
+        "imgAlt": "Пожарная сигнализация - колокол",
+        "properties": [
+          "Проект системы пожарной сигнализации",
+          "Расчет конфигурации любой сложности",
+          "Качественный и быстрый монтаж",
+          "Изготовление пожарных щитов",
+          "Информационные доски и указатели",
+          "Соблюдение всех норм и требований"
+        ],
+        "price": [
+          {
+            "title": "Монтаж радиоканального датчика",
+            "service": 250,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж проводного датчика",
+            "service": 350,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж речевого динамика",
+            "service": 250,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж сирены комбинированной",
+            "service": 400,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж табличек ВХОД",
+            "service": 150,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж пожарного дымового линейного датчика",
+            "service": 2400,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж прибора охранно-пожарного",
+            "service": 3500,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Установка 1-го блока речевого оповещения",
+            "service": 2000,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Установка блока стабилизированного, с источником резервного питания",
+            "service": 1200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж кабеля/витой пары внутренней",
+            "service": 25,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж витой пары внешней",
+            "service": 35,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж тросса с гофрой",
+            "service": 40,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          }
+        ]
+      },
+      {
+        "header": "Сплит-системы",
+        "description": "Скорее всего Вы хорошо знаете, что при выборе сплит-системы необходимо учесть много факторов. Это и площадь помещений, характеристики и надежность оборудования, легкость эксплуатации, сложность проведения профилактических работ, таких как чистка фильтров и конденсатора. Учесть все это не так просто. Мы готовы помочь Вам. Предлагаем полный спектр услуг.",
+        "imgSrc": "../img/split-service.jpg",
+        "imgAlt": "Сплит-системы",
+        "properties": [
+          "Грамотный расчет",
+          "Большой выбор оборудования",
+          "Быстрый и качественный монтаж",
+          "Выезд мастера для диагностики",
+          "Устранение течи и дозаправка",
+          "Гарантия на оборудование и работу"
+        ],
+        "price": [
+          {
+            "title": "Монтаж системы 07-09",
+            "service": 3500,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж системы 12",
+            "service": 4200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж системы 18",
+            "service": 5000,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж системы 24",
+            "service": 6000,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Дозаправка 07-09-12",
+            "service": 2200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Дозаправка 18-24-30",
+            "service": 3000,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Устранение течи по вальцовке 07-09-12",
+            "service": 1400,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Устранение течи по вальцовке 18-24-30",
+            "service": 2000,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Работа мех-рукой",
+            "service": 2200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Закладка трубы со штробой, от",
+            "service": 1200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          }
+        ]
+      },
+      {
+        "header": "Телевидение",
+        "description": "Согласитесь, когда выбор слишком большой, легко запутаться. Так сейчас обстоит дело как с провайдерами кабельного и спутникового ТВ, так и с их тарифами. Слишком много вариантов. Ориентируясь на Ваши вкусы и предпочтения специалисты ООО АНТЕЙ подскажут, какие провайдеры и тарифы будут для Вас оптимальными. Рады предложить полный спектр услуг в этой сфере.",
+        "imgSrc": "../img/tv-service.jpg",
+        "imgAlt": "Пульт дистанционного управления телевизором",
+        "properties": [
+          "7 основных операторов",
+          "Более 350 каналов",
+          "Монтаж спутниковых антенн",
+          "Прокладка ТВ-кабеля",
+          "Настройка по силе сигнала",
+          "Бесплатная консультация"
+        ],
+        "price": [
+          {
+            "title": "Монтаж",
+            "service": 3500,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж",
+            "service": 4200,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          },
+          {
+            "title": "Монтаж",
+            "service": 5000,
+            "minEquipment": 100,
+            "maxEquipment": 200
+          }
+        ]
+      }
+    ]
+  },
+  "videoMonitoring": {
+    "header": "Камеры онлайн",
+    "description": "Не устанавливая камеру, Вы можете получить представление, как она работает",
+    "cameras": [
+      {
+        "header": "Деловой комплекс ФОРУМ",
+        "src": "https://rtsp.me/embed/GYYfkGy3/"
+      },
+      {
+        "header": "Магазин \"ПОРТ\"",
+        "src": "https://rtsp.me/embed/D5DzaHN3/"
+      },
+      {
+        "header": "Вид на Ейский лиман",
+        "src": "https://rtsp.me/embed/8aSfRNQe/"
+      },
+      {
+        "header": "БРОНЕКАТЕР \"ЕЙСКИЙ ПАТРИОТ\"",
+        "src": "https://rtsp.me/embed/At4Ra46T/"
+      }
+    ]
+  },
+  "about": {
+    "header": "ООО АНТЕЙ",
+    "description": "Производим установку и&nbsp;обслуживание систем видеонаблюдения, охранно&#8209;пожарной сигнализации, шлагбаумов, распашных ворот, кондиционеров, телевидения и телефонии, а&nbsp;также систем \"Умный&nbsp;Дом\"",
+    "workDescription": "Специалисты компании ООО \"АНТЕЙ\" имеют высокую квалификацию и опыт установки самого разного оборудования",
+    "workPhotos": [
+      "../img/work-1.jpeg",
+      "../img/work-2.jpeg",
+      "../img/work-3.jpeg",
+      "../img/work-4.jpeg",
+      "../img/work-5.jpeg",
+      "../img/work-6.jpeg",
+      "../img/work-7.jpeg"
+    ],
+    "aboutSuppliers": "Мы работаем с ведущими производителями оборудования",
+    "suppliers": [
+      {
+        "href": "http://anmotorsshop.ru/",
+        "src": "../img/anmotors.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://www.bft-automation.com/ru_RU/",
+        "src": "../img/bft.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://niceforyou.ru/",
+        "src": "../img/nice.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://www.commax.com/rus/",
+        "src": "../img/commax.jpg",
+        "alt": ""
+      },
+      {
+        "href": "http://jsbsystems.ru/",
+        "src": "../img/jsb.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://ltv-cctv.ru/",
+        "src": "../img/ltv.jpg",
+        "alt": ""
+      },
+      {
+        "href": "http://ru.kocom.com/main/main.php",
+        "src": "../img/kocom.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://paritet.su/",
+        "src": "../img/paritet.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://www.proconnect.su/",
+        "src": "../img/proconnect.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://luis.ru/",
+        "src": "../img/luisf.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://trassir.ru/",
+        "src": "../img/trassir.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://www.dahuasecurity.com/ru",
+        "src": "../img/dahua.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://www.doorhan.ru/",
+        "src": "../img/doorhan.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://hi.watch/",
+        "src": "../img/hiwatch.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://bolid.ru/",
+        "src": "../img/bolid.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://rubezh.ru/",
+        "src": "../img/rubezh.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://argus-spectr.ru/",
+        "src": "../img/strelets.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://www.rexant.ru/",
+        "src": "../img/rexant.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://netlancables.ru/",
+        "src": "../img/netlan.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://www.polyvision.ru/",
+        "src": "../img/polivision.jpg",
+        "alt": ""
+      },
+      {
+        "href": "http://ctvcctv.ru/",
+        "src": "../img/ctv.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://arsenal-sib.ru/",
+        "src": "../img/sibarsenal.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://hikvision.ru/",
+        "src": "../img/hikvision.jpg",
+        "alt": ""
+      },
+      {
+        "href": "https://camerussia.com/",
+        "src": "../img/came.jpg",
+        "alt": ""
+      }
+    ],
+    "aboutClients": "Некоторые наши клиенты",
+    "clients": [
+      {
+        "href": "http://xn-----8kcahqsfgkp0cbv.xn--p1ai/",
+        "src": "../img/logo-plaza-web.png",
+        "alt": ""
+      },
+      {
+        "href": "https://mirsud.krasnodar.ru/",
+        "src": "../img/mirsud.png",
+        "alt": ""
+      },
+      {
+        "href": "https://rosstalmet.ru/",
+        "src": "../img/felan.png",
+        "alt": ""
+      },
+      {
+        "href": "http://school15.tim.kubannet.ru/",
+        "src": "../img/scool15shendrika.png",
+        "alt": ""
+      },
+      {
+        "href": "https://dshiyasenskaya.krd.muzkult.ru/",
+        "src": "../img/dshi-yasenskaya.png",
+        "alt": ""
+      },
+      {
+        "href": "https://www.hotelbristol.ru/",
+        "src": "../img/bristol-eysk.png",
+        "alt": ""
+      },
+      {
+        "href": "https://odshi.krd.muzkult.ru/",
+        "src": "../img/dshi-oktyabrsky.png",
+        "alt": ""
+      },
+      {
+        "href": "https://instagramm.com/neiron.medik/",
+        "src": "../img/neyro.png",
+        "alt": ""
+      },
+      {
+        "href": "https://yeisk.info/organizations/elenawave-iskusstvennaya-volna-v-ejske",
+        "src": "../img/elena-wave.png",
+        "alt": ""
+      },
+      {
+        "href": "https://www.instagram.com/portkulinar/",
+        "src": "../img/port.png",
+        "alt": ""
+      },
+      {
+        "href": "https://mpr-shop.ru/",
+        "src": "../img/mrp.png",
+        "alt": ""
+      },
+      {
+        "href": "http://emuzey.krd.muzkult.ru/",
+        "src": "../img/eysk-kray-museum.gif",
+        "alt": ""
+      }
+    ]
+  }
+}
